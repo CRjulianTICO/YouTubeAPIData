@@ -9,8 +9,11 @@ Ejemplo de uso de la API DATA de YouTube por medio de APIKEY
   https://console.cloud.google.com
 
   *Ir al menu y seleccionar APIs y Servicios
+  
   *Seleccionar Biblioteca y buscar la API DATA de YouTube
+  
   *Luego crear credenciales y seleccionar APIKEY
+  
   *Se restringe
   
   Despues se debe ir al siguiente link y seleccionar en la parte de la derecha search.list(se buscan canales videos y playlists)

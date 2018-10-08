@@ -27,8 +27,10 @@ Ejemplo de uso de la API DATA de YouTube por medio de APIKEY
   Despues debe copiar la APIKEY y pegarlar en DEVELOPER_KEY = 'AQUI PONE EL APIKEY'
   
   Y para finalizar en las lineas:
-  # argparser.add_argument("--q", help="Search term", default="python machine learning") Donde dice default es para lo que quiere buscar
-  # argparser.add_argument("--max-results", help="Max results", default=10) Donde dice default es limitar la busqueda
+  
+  argparser.add_argument("--q", help="Search term", default="python machine learning") Donde dice default es para lo que quiere buscar
+  
+  argparser.add_argument("--max-results", help="Max results", default=10) Donde dice default es limitar la busqueda
   
   
   
